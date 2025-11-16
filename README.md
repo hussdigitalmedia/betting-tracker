@@ -1,2 +1,0 @@
-# betting-tracker
-Betting Tracker
